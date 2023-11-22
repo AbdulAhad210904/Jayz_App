@@ -1,7 +1,6 @@
 ![Jayz Main](https://github.com/technocrats-portfolio/Jayz_App/assets/149525727/132c1d77-025c-41cd-85be-33612b4faaa3)
 <p align="center">
   <h3 align="center">Jayz Fast Food App with GPT Integration</h3>
-  
   <p align="center">
     Fast Food Ordering Application with Flutter that uses Firebase and GPT for customer support.
     <br>
