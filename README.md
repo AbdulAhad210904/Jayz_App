@@ -18,7 +18,6 @@
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
@@ -48,7 +47,7 @@ We use ChatGPT Api to implement realtime Customer Support.
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issues](https://github.com/AbdulAhad210904/Jayz_App/issues/) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue]((https://github.com/AbdulAhad210904/Jayz_App/issues/new)).
+Have a bug or a feature request? Please first read the [issues](https://github.com/AbdulAhad210904/Jayz_App/issues/) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/AbdulAhad210904/Jayz_App/issues/new).
 
 ## Creators
 
