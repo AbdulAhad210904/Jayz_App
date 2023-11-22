@@ -1,16 +1,87 @@
-# jayzapp
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
+  </a>
 
-A new Flutter project.
+  <h3 align="center">Jayz Fast Food App with GPT Integration</h3>
 
-## Getting Started
+  <p align="center">
+    Fast Food Ordering Application with Flutter that uses Firebase and GPT for customer support.
+    <br>
+    Project made with much  :heart: . Contains CRUD, Firebase, ChatGPT integration, patterns, and much more!
+    <br>
+    <br>
+    <a href="https://github.com/AbdulAhad210904/Jayz_App/issues/new">Report bug</a>
+    ·
+    <a href="https://github.com/AbdulAhad210904/Jayz_App/issues/new">Request feature</a>
+  </p>
+</p>
 
-This project is a starting point for a Flutter application.
+## Table of contents
 
-A few resources to get you started if this is your first Flutter project:
+- [Quick start](#quick-start)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Quick start
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
+
+## What's included
+
+* CRUD: create, update and remove heroes with Firebase!
+* Search bar
+* Internationalization 
+* Responsive layout
+* FireBase Implementation
+* FireStore
+* ChatGPT Integration
+* Following the [best practices](https://angular.io/guide/styleguide)!
+
+### Firebase
+
+This repo is using Firebase. We use Cloud Firestore and Cloud Storage to handle CRUD operations.
+
+### ChatGPT
+
+We use ChatGPT Api to implement realtime Customer Support.
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issues](https://github.com/AbdulAhad210904/Jayz_App/issues/) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue]((https://github.com/AbdulAhad210904/Jayz_App/issues/new)).
+
+## Creators
+
+**Abdul Ahad Ali**
+
+- <https://github.com/AbdulAhad210904>
+
+**Muhammad Taha Shayan**
+
+- <https://github.com/Tahashayan/>
+
+## Thanks
+
+Thanks to all contributors and their support:
+
+**Huzaifa Azhar Tarar**
+
+- <https://github.com/HuzaifaAzhar/>
+
+**Muhammad Awab**
+  
+- <https://github.com/Muhammad-Awab>
+
+**Sohaib Asif**
+  
+- <https://github.com/SohaibAsif-5602/>
+
+## Copyright and license
+
+Code and documentation copyright 2018 the authors. Code released under the [MIT License](https://github.com/Ismaestro/flutter-example-app/blob/master/LICENSE).
+
+Enjoy :metal:
