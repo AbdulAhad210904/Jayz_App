@@ -1,8 +1,7 @@
 <p align="center">
+  ![Jayz Main](https://github.com/technocrats-portfolio/Jayz_App/assets/149525727/132c1d77-025c-41cd-85be-33612b4faaa3)
   <a href="https://flutter.io/">
-    ![Jayz Main](https://github.com/technocrats-portfolio/Jayz_App/assets/149525727/132c1d77-025c-41cd-85be-33612b4faaa3)
-
-    <img src="(https://github.com/technocrats-portfolio/Jayz_App/assets/149525727/132c1d77-025c-41cd-85be-33612b4faaa3)" alt="Logo" width=72 height=72>
+    <img src="https://github.com/technocrats-portfolio/Jayz_App/assets/149525727/132c1d77-025c-41cd-85be-33612b4faaa3" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Jayz Fast Food App with GPT Integration</h3>
